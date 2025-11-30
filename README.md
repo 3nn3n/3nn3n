@@ -1,4 +1,4 @@
-<h1 align="center" color="red"> Nitesh Negi — Solana Engineer </h1>
+<h1 align="center"> Nitesh Negi — Solana Engineer </h1>
 <p align="center">Rust • Anchor • Solana • Full-Stack </p>
 
 ---
