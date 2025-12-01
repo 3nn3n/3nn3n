@@ -39,6 +39,25 @@ Users create proposals, cast votes, and view outcomes using on-chain logic.
 
 ---
 
+## 5. [**Minimal Blockchain**](https://github.com/3nn3n/blockchain101)
+### **What it does**
+A from-scratch blockchain that demonstrates the fundamentals of block creation, hashing, chain validation, and simple P2P synchronization.
+
+---
+
+## 6. [**PBFT Consensus Simulation**](https://github.com/3nn3n/pbft_simulation)
+### **What it does**
+A step-by-step simulation of **PBFT (Practical Byzantine Fault Tolerance)** showing how nodes:
+
+- Propose  
+- Pre-prepare  
+- Prepare  
+- Commit  
+
+and reach consensus even with faulty nodes.
+
+---
+
 # Currently Learning
 - Solana runtime & parallel execution  
 - PDA security patterns  
