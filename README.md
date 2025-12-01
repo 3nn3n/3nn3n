@@ -58,6 +58,10 @@ and reach consensus even with faulty nodes.
 
 ---
 
+## 7. [**UTXO Ledger (Bitcoin-Style)**](https://github.com/3nn3n/ledger)
+### **What it does**
+A minimal **UTXO-based ledger** inspired by Bitcoin's transaction model.  
+
 # Currently Learning
 - Solana runtime & parallel execution  
 - PDA security patterns  
