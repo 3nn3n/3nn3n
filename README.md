@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 Summary
+## Summary
 **Solana Engineer** passionate about building secure, efficient, and well-architected on-chain programs.  
 I focus on PDAs, account security, SPL Token program flows, and writing clean on-chain logic with **Rust + Anchor**.  
 I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
@@ -12,81 +12,30 @@ I’ve built multiple real Solana programs end-to-end and I’m continuously lea
 
 # Projects
 
-## 1. **Stake Program**
-**Tech:** Rust, Anchor, SPL Token Program  
-
+## 1. [**Stake Program**](https://github.com/3nn3n/stake)
 ### **What it does**
-A minimal stake pool where users can deposit tokens and earn proportional rewards.
-
-### **Key Responsibilities**
-- Designed PDA-based pool authority  
-- Implemented secure staking & reward distribution  
-- Created vault account to hold staked tokens  
-- Wrote account validations & error handling  
-- Added reward calculation logic  
-
-### **Skills Demonstrated**
-✔ PDA signer patterns  
-✔ Vault authority design  
-✔ Token transfers via CPI  
-✔ Anchor validations  
+A minimal stake pool where users can deposit tokens and earn proportional rewards. 
 
 ---
 
-## 2. **On-Chain Vault System**
+## 2. [**On-Chain Vault System**](https://github.com/3nn3n/onchain_vault)
 ### **What it does**
 A secure PDA-owned vault where users can deposit/withdraw fungible tokens.
 
-### **Key Responsibilities**
-- Designed PDA vault authority  
-- Implemented deposit & withdrawal instructions  
-- Secured all token CPI calls  
-- Defined account constraints to prevent tampering  
-- Designed access-control layer  
-
-### **Skills Demonstrated**
-✔ PDA authority models  
-✔ CPI security with SPL Token  
-✔ Escrow-style account design  
-✔ Anchor macros & constraints  
-
 
 ---
 
-## 3. **Invoice Program**
+## 3. [**Invoice Program**](https://github.com/3nn3n/invoice_platform)
 ### **What it does**
 Issue, pay, and close invoices directly on-chain.
 
-### **Key Responsibilities**
-- Created invoice PDA structure  
-- Implemented invoice creation & settlement  
-- Validated payment flows using CPI  
-- Added status tracking (Pending → Paid → Closed)  
-
-### **Skills Demonstrated**
-✔ PDA mapping for invoices  
-✔ Complex state transitions  
-✔ Clean state-model design  
-✔ Client-side patterns (Anchor client)  
-
 
 ---
 
-## 4. **Voting dApp (On-Chain Governance)**
+## 4. [**Voting dApp (On-Chain Governance)**](https://github.com/3nn3n/solana-voting-dapp)
 ### **What it does**
 Users create proposals, cast votes, and view outcomes using on-chain logic.
 
-### **Key Responsibilities**
-- Designed proposal and vote PDAs  
-- Enforced one-vote-per-wallet  
-- Time-lock based proposal lifecycle  
-- Implemented tally logic  
-
-### **Skills Demonstrated**
-✔ Governance program design  
-✔ PDA uniqueness constraints  
-✔ Safe vote accounting  
-✔ Time-based logic on-chain  
 
 ---
 
@@ -128,7 +77,6 @@ Users create proposals, cast votes, and view outcomes using on-chain logic.
 # What I'm Building Next
 - Reputation Scoring Program  
 - Production-ready Solana dApp  
-- Documentation + tutorials for beginners  
 
 ---
 
@@ -140,7 +88,5 @@ LinkedIn (coming soon)
 ---
 
 <div align="center">
-  
-### If my work interests you, feel free to explore and star my repositories!
 
 </div>
