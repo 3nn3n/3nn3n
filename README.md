@@ -9,26 +9,30 @@ I focus on PDAs, account security, SPL Token program flows, and writing clean on
 I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
 
 ---
+
 # Projects
 <table>
 <tr>
-<td align='center'><b># [**Stake Program**](https://github.com/3nn3n/stake)</b></td>
-<td align='center'><b>[On-Chain Vault](https://github.com/3nn3n/onchain_vault)</b></td>
-<td align='center'><b>[Invoice Program](https://github.com/3nn3n/invoice_platform)</b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/stake">Stake Program</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/onchain_vault">On-Chain Vault</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/invoice_platform">Invoice Program</a></b></td>
 </tr>
+
 <tr>
-<td align='center'><b>[Voting dApp](https://github.com/3nn3n/solana-voting-dapp)</b></td>
-<td align='center'><b>[Minimal Blockchain](https://github.com/3nn3n/blockchain101)</b></td>
-<td align='center'><b>[PBFT Simulation](https://github.com/3nn3n/pbft_simulation)</b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/solana-voting-dapp">Voting dApp</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/blockchain101">Minimal Blockchain</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/pbft_simulation">PBFT Simulation</a></b></td>
 </tr>
+
 <tr>
-<td align='center'><b>[UTXO Ledger](https://github.com/3nn3n/ledger)</b></td>
-<td align='center'><b>[Virtual Machine](https://github.com/3nn3n/solana_VM)</b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/ledger">UTXO Ledger</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/solana_VM">Virtual Machine</a></b></td>
+<td align="center"><b>—</b></td>
 </tr>
 </table>
 
-
 ---
+
 # Currently Learning
 - Solana runtime & parallel execution  
 - PDA security patterns  
@@ -71,10 +75,9 @@ I’ve built multiple real Solana programs end-to-end and I’m continuously lea
 ---
 
 # Contact
- - [Twitter](https://x.com/n1teshnegi)  
+- <a href="https://x.com/n1teshnegi">Twitter</a>
 
 ---
 
 <div align="center">
-
 </div>
