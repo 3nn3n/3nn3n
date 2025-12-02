@@ -16,18 +16,21 @@ I’ve built multiple real Solana programs end-to-end and I’m continuously lea
 <td align="center"><b><a href="https://github.com/3nn3n/stake">Stake Program</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/onchain_vault">On-Chain Vault</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/invoice_platform">Invoice Program</a></b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/solana-voting-dapp">Voting dApp</a></b></td>
+<td align="center"><b>—</b></td>
 </tr>
 
 <tr>
-<td align="center"><b><a href="https://github.com/3nn3n/solana-voting-dapp">Voting dApp</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/blockchain101">Minimal Blockchain</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/pbft_simulation">PBFT Simulation</a></b></td>
-</tr>
-
-<tr>
 <td align="center"><b><a href="https://github.com/3nn3n/ledger">UTXO Ledger</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/solana_VM">Virtual Machine</a></b></td>
 <td align="center"><b>—</b></td>
+
+</tr>
+
+<tr>
+
 </tr>
 </table>
 
