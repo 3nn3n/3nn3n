@@ -104,7 +104,7 @@ A minimal **UTXO-based ledger** inspired by Bitcoin's transaction model.
 ---
 
 # Contact
-# [Twitter](https://x.com/n1teshnegi)  
+[Twitter](https://x.com/n1teshnegi)  
 
 ---
 
