@@ -10,7 +10,22 @@ I’ve built multiple real Solana programs end-to-end and I’m continuously lea
 
 ---
 # Projects
-"<table><tr><td align='center'><b>Stake Program</b></td><td align='center'><b>On-Chain Vault</b></td><td align='center'><b>Invoice Program</b></td></tr><tr><td align='center'><b>Voting dApp</b></td><td align='center'><b>Minimal Blockchain</b></td><td align='center'><b>PBFT Simulation</b></td></tr><tr><td align='center'><b>UTXO Ledger</b></td><td align='center'><b>Virtual Machine</b></td></tr></table>"
+<table>
+<tr>
+<td align='center'><b>[Stake Program](https://github.com/3nn3n/stake)</b></td>
+<td align='center'><b>[On-Chain Vault](https://github.com/3nn3n/onchain_vault)</b></td>
+<td align='center'><b>[Invoice Program](https://github.com/3nn3n/invoice_platform)</b></td>
+</tr>
+<tr>
+<td align='center'><b>[Voting dApp](https://github.com/3nn3n/solana-voting-dapp)</b></td>
+<td align='center'><b>[Minimal Blockchain](https://github.com/3nn3n/blockchain101)</b></td>
+<td align='center'><b>[PBFT Simulation](https://github.com/3nn3n/pbft_simulation)</b></td>
+</tr>
+<tr>
+<td align='center'><b>[UTXO Ledger](https://github.com/3nn3n/ledger)</b></td>
+<td align='center'><b>[Virtual Machine](https://github.com/3nn3n/solana_VM)</b></td>
+</tr>
+</table>
 
 
 ---
