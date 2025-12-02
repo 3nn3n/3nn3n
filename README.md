@@ -12,7 +12,7 @@ I’ve built multiple real Solana programs end-to-end and I’m continuously lea
 # Projects
 <table>
 <tr>
-<td align='center'><b>[Stake Program](https://github.com/3nn3n/stake)</b></td>
+<td align='center'><b># [**Stake Program**](https://github.com/3nn3n/stake)</b></td>
 <td align='center'><b>[On-Chain Vault](https://github.com/3nn3n/onchain_vault)</b></td>
 <td align='center'><b>[Invoice Program](https://github.com/3nn3n/invoice_platform)</b></td>
 </tr>
