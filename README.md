@@ -9,58 +9,30 @@ I focus on PDAs, account security, SPL Token program flows, and writing clean on
 I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
 
 ---
+const projects = [
+  "Stake Program",
+  "On-Chain Vault",
+  "Invoice Program",
+  "Voting dApp",
+  "Minimal Blockchain",
+  "PBFT Simulation",
+  "UTXO Ledger",
+  "Virtual Machine"
+];
+
+
+
+
 
 # Projects
+// Generate 3-column table
+let out = "<table><tr>";
+projects.forEach((p, i) => {
+  out += `<td align='center'><b>${p}</b></td>`;
+  if ((i + 1) % 3 === 0) out += "</tr><tr>";
+});
+out += "</tr></table>";
 
-## 1. [**Stake Program**](https://github.com/3nn3n/stake)
-A minimal stake pool where users can deposit tokens and earn proportional rewards. 
-
----
-
-## 2. [**On-Chain Vault System**](https://github.com/3nn3n/onchain_vault)
-A secure PDA-owned vault where users can deposit/withdraw fungible tokens.
-
-
----
-
-## 3. [**Invoice Program**](https://github.com/3nn3n/invoice_platform)
-Issue, pay, and close invoices directly on-chain.
-
-
----
-
-## 4. [**Voting dApp (On-Chain Governance)**](https://github.com/3nn3n/solana-voting-dapp)
-Users create proposals, cast votes, and view outcomes using on-chain logic.
-
-
----
-
-## 5. [**Minimal Blockchain**](https://github.com/3nn3n/blockchain101)
-A from-scratch blockchain that demonstrates the fundamentals of block creation, hashing, chain validation, and simple P2P synchronization.
-
----
-
-## 6. [**PBFT Consensus Simulation**](https://github.com/3nn3n/pbft_simulation)
-A step-by-step simulation of **PBFT (Practical Byzantine Fault Tolerance)** showing how nodes:
-
-- Propose  
-- Pre-prepare  
-- Prepare  
-- Commit  
-
-and reach consensus even with faulty nodes.
-
----
-
-## 7. [**UTXO Ledger (Bitcoin-Style)**](https://github.com/3nn3n/ledger)
-A minimal **UTXO-based ledger** inspired by Bitcoin's transaction model.  
-
----
-
-## 8. [**Virtual Machine (Custom Instruction Executor)**](https://github.com/3nn3n/solana_VM)
-A minimal **virtual machine** that executes custom bytecode-like instructions, simulating how smart contract runtimes process operations.
-
----
 
 
 # Currently Learning
