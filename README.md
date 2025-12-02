@@ -9,32 +9,11 @@ I focus on PDAs, account security, SPL Token program flows, and writing clean on
 I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
 
 ---
-const projects = [
-  "Stake Program",
-  "On-Chain Vault",
-  "Invoice Program",
-  "Voting dApp",
-  "Minimal Blockchain",
-  "PBFT Simulation",
-  "UTXO Ledger",
-  "Virtual Machine"
-];
-
-
-
-
-
 # Projects
-// Generate 3-column table
-let out = "<table><tr>";
-projects.forEach((p, i) => {
-  out += `<td align='center'><b>${p}</b></td>`;
-  if ((i + 1) % 3 === 0) out += "</tr><tr>";
-});
-out += "</tr></table>";
+"<table><tr><td align='center'><b>Stake Program</b></td><td align='center'><b>On-Chain Vault</b></td><td align='center'><b>Invoice Program</b></td></tr><tr><td align='center'><b>Voting dApp</b></td><td align='center'><b>Minimal Blockchain</b></td><td align='center'><b>PBFT Simulation</b></td></tr><tr><td align='center'><b>UTXO Ledger</b></td><td align='center'><b>Virtual Machine</b></td></tr></table>"
 
 
-
+---
 # Currently Learning
 - Solana runtime & parallel execution  
 - PDA security patterns  
