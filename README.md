@@ -4,7 +4,7 @@
 ---
 
 ## Summary
-**Solana Engineer** passionate about building secure, efficient, and well-architected on-chain programs.  
+I am passionate about building secure, efficient, and well-architected on-chain programs.  
 I focus on PDAs, account security, SPL Token program flows, and writing clean on-chain logic with **Rust + Anchor**.  
 I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
 
@@ -54,6 +54,14 @@ and reach consensus even with faulty nodes.
 
 ## 7. [**UTXO Ledger (Bitcoin-Style)**](https://github.com/3nn3n/ledger)
 A minimal **UTXO-based ledger** inspired by Bitcoin's transaction model.  
+
+---
+
+## 8. [**Virtual Machine (Custom Instruction Executor)**](https://github.com/3nn3n/solana_VM)
+A minimal **virtual machine** that executes custom bytecode-like instructions, simulating how smart contract runtimes process operations.
+
+---
+
 
 # Currently Learning
 - Solana runtime & parallel execution  
