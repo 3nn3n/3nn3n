@@ -4,14 +4,22 @@
 ---
 
 ## Summary
-I am passionate about building secure, efficient, and well-architected on-chain programs.  
+Building secure, efficient, and well-architected on-chain programs.  
 I focus on PDAs, account security, SPL Token program flows, and writing clean on-chain logic with **Rust + Anchor**.  
-I’ve built multiple real Solana programs end-to-end and I’m continuously learning deeper Solana internals.
+Continuously learning deeper Solana internals.
 
 ---
 
 # Projects
 <table>
+<tr>
+<td align="center"><b>—</b></td>
+<td align="center"><b>—</b></td>
+<td align="center"><b><a href="https://github.com/3nn3n/rhythm_mint">Music onchain</a></b></td>
+<td align="center"><b>—</b></td>
+<td align="center"><b>—</b></td>
+</tr>
+
 <tr>
 <td align="center"><b><a href="https://github.com/3nn3n/stake">Stake Program</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/onchain_vault">On-Chain Vault</a></b></td>
