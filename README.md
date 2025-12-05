@@ -5,7 +5,7 @@
 
 ## Summary
 Building secure, efficient, and well-architected on-chain programs.  
-I focus on PDAs, account security, SPL Token program flows, and writing clean on-chain logic with **Rust + Anchor**.  
+Writing clean on-chain logic with **Rust + Anchor**.  
 Continuously learning deeper Solana internals.
 
 ---
