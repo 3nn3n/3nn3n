@@ -14,7 +14,7 @@ Continuously learning deeper Solana internals.
 <table>
 <tr>
 <td align="center"><b>—</b></td>
-<td align="center"><b>—</b></td>
+<td align="center"><b><a href="https://ni-ne-x.vercel.app/">NiNeX Frontend</a></b></td>
 <td align="center"><b><a href="https://github.com/3nn3n/rhythm_mint">Music onchain</a></b></td>
 <td align="center"><b>—</b></td>
 <td align="center"><b>—</b></td>
@@ -103,6 +103,7 @@ Continuously learning deeper Solana internals.
 
 <div align="center">
 </div>
+
 
 
 
