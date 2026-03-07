@@ -76,7 +76,7 @@ Continuously learning deeper Solana internals.
 </tr>
 </table>
 
-## Skills
+# Skills
 - JavaScript / TypeScript  
 - Next.js (learning)  
 - React  
@@ -103,6 +103,7 @@ Continuously learning deeper Solana internals.
 
 <div align="center">
 </div>
+
 
 
 
