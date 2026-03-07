@@ -65,7 +65,16 @@ Continuously learning deeper Solana internals.
 - Solana Program Lifecycle  
 - Error handling & account validation  
 
-### **Frontend / Full Stack**
+### **Frontend / Full Stack** 
+<table>
+<tr>
+<td align="center"><b>—</b></td>
+<td align="center"><b>—</b></td>
+<td align="center"><b><a href="https://ni-ne-x.vercel.app/">NiNeX</a></b></td>
+<td align="center"><b>—</b></td>
+<td align="center"><b>—</b></td>
+</tr>
+</table>
 - JavaScript / TypeScript  
 - Next.js (learning)  
 - React  
@@ -92,3 +101,4 @@ Continuously learning deeper Solana internals.
 
 <div align="center">
 </div>
+
