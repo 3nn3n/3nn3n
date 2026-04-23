@@ -3,13 +3,6 @@
 
 ---
 
-## Summary
-Building secure, efficient, and well-architected on-chain programs.  
-Writing clean on-chain logic with **Rust + Anchor**.  
-Continuously learning deeper Solana internals.
-
----
-
 # Projects
 <table>
 <tr>
